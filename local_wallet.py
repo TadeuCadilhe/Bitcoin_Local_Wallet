@@ -1,12 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-"""
-Local Wallet (offline) - retro pixel style with QR export
-Language: English only (universal)
-Compatible with bip-utils 2.9.3
-"""
-
 import os
 import sys
 import json
